@@ -5,7 +5,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/sandeep-paruchuri2001/">
-          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParuchuriSandeep&layout=compact)](https://github.com/ParuchuriSandeep/github-readme-stats)
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParuchuriSandeep&langs_count=6&border_radius=10&layout=compact&theme=ayu-mirage&hide=html,css" />
           </a>
           </p>
      
