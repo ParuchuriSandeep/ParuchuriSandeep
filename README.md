@@ -2,6 +2,9 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sandeep 👨‍💻
 </h1>
 
+<br>
+<br>
+
 <img align="right" src="https://github.com/paruchurisandeep/paruchurisandeep/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
 	
