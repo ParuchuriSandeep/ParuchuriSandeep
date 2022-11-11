@@ -12,7 +12,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/sandeep-paruchuri2001/">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParuchuriSandeep&langs_count=10&border_radius=10&layout=compact&theme=ayu-mirage&hide=html,css" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParuchuriSandeep&langs_count=10&border_radius=10&layout=compact&theme=ayu-mirage&hide=html,css" width="300" height="300" />
           </a>
 </p>
 
