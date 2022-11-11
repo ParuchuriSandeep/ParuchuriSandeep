@@ -3,7 +3,11 @@
 [![Linkedin: Sandeep](https://img.shields.io/badge/Sandeep%20Paruchuri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandeep-paruchuri2001/)](https://www.linkedin.com/in/sandeep-paruchuri2001/) 
 [![Twitter: Sandeep](https://img.shields.io/twitter/follow/sandeeparuchuri?style=social)](https://twitter.com/Sandeeparuchuri)
 
+<p align="center">
+	<a href="https://www.linkedin.com/in/sandeep-paruchuri2001/">
           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParuchuriSandeep&layout=compact)](https://github.com/ParuchuriSandeep/github-readme-stats)
+          </a>
+          </p>
      
 
 
