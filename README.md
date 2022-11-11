@@ -2,7 +2,7 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sandeep 👨‍💻
 </h1>
 
-<img align="right" src="https://github.com/paruchurisandeep/paruchurisandeep/blob/main/developer.gif" alt="Hola Coders" width="100" height="150"/> 
+<img align="right" src="https://github.com/paruchurisandeep/paruchurisandeep/blob/main/developer.gif" alt="Hola Coders" width="200" height="250"/> 
 
 	
 [![GitHub Sandeep](https://img.shields.io/github/followers/ParuchuriSandeep?label=follow&style=social)](https://github.com/ParuchuriSandeep)
